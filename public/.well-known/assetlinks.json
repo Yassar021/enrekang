@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "id.dispoparenrekang.twa",
+      "package_name": "id.dispoparenrekangtourism.twa",
       "sha256_cert_fingerprints": [
-        "06:9B:9C:F0:6C:A5:65:C4:19:59:41:0B:7B:AA:B9:4C:A1:9A:68:FA:B0:B4:F2:BE:B2:CD:5B:F6:95:4C:A8:A2"
+        "42:10:BD:D8:88:7C:D8:DA:06:92:1C:56:27:BF:F8:61:70:72:7E:43:D4:79:B4:19:06:5F:A7:5D:AD:ED:53:DF"
       ]
     }
   }
